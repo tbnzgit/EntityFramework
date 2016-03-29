@@ -12,6 +12,8 @@ namespace MigrationsDemo
             //this is a comment
 
             //push
+
+            //Branch1 change
         }
     }
 }
